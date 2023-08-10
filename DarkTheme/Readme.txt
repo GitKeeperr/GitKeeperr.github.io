@@ -6,7 +6,7 @@ but mostly made my me.
 
 Installtion:
 
-1. Go to https://github.com/GitKeeperr/DarkTheme/blob/main/DarkTheme+
+1. Go to https://github.com/GitKeeperr/GitKeeperr.github.io/edit/main/DarkTheme
 
 2. Download the file named "darktheme+" or copy the code in the terminal box
 

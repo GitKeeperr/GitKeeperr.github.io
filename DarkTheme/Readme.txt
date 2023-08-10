@@ -10,7 +10,7 @@ Installtion:
 
 2. Download the file named "darktheme.css" or copy the code in the terminal box
 
-3. After completing step 2, go to Vencord.com (or your preferred client) and download it
+3. After completing step 2, Go to https://vencord.dev/ (or your preferred client) and download it
 if you dont have it already.
 
 4. Find the "Open CSS" and paste the code in there. If you downloaded it, click the "Open themes folder"

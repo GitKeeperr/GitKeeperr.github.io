@@ -16,4 +16,4 @@ if you dont have it already.
 4. Find the "Open CSS" and paste the code in there. If you downloaded it, click the "Open themes folder"
 and put the "darktheme" file into the "themes" folder.
 
-5. You should see "dark+" or "darktheme.css", you can activate it and see your new theme!
+5. You should see "dark+" or "darktheme.css" in discord, you can activate it and see your new theme!
